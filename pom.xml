@@ -5,7 +5,7 @@
     <artifactId>Tp2Tomiki</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>Tp2Tomiki</name>
+    <name>Tp2PRG</name>
     
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
